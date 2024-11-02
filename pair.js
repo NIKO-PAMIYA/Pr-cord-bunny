@@ -82,9 +82,9 @@ var randomItem = selectRandomItem(items);
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴠᴀᴊɪʀᴀ-ᴍᴅ",
-thumbnailUrl: "https://telegra.ph/file/e069027c2178e2c7475c9.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z",
+title: "ʙᴜɴɴʏ ᴍᴅ",
+thumbnailUrl: https://i.ibb.co/Cnkbmmd/20241102-101659.jpg",
+sourceUrl: "https://whatsapp.com/channel/0029Vae1ftRHrDZbwVEqoV06",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -98,9 +98,9 @@ renderLargerThumbnail: true
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴠᴀᴊɪʀᴀ-ᴍᴅ",
-thumbnailUrl: "https://telegra.ph/file/e069027c2178e2c7475c9.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z",
+title: "ʙᴜɴɴʏ ᴍᴅ",
+thumbnailUrl: "https://i.ibb.co/Cnkbmmd/20241102-101659.jpg",
+sourceUrl: "https://whatsapp.com/channel/0029Vae1ftRHrDZbwVEqoV06",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
